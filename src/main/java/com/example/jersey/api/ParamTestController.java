@@ -3,7 +3,9 @@ package com.example.jersey.api;
 import org.springframework.stereotype.Component;
 
 import javax.ws.rs.*;
+import javax.ws.rs.core.Cookie;
 import javax.ws.rs.core.MediaType;
+import javax.ws.rs.core.MultivaluedHashMap;
 
 @Path("/params")
 @Component
@@ -42,4 +44,19 @@ public class ParamTestController {
     public String headerParamTest(@HeaderParam("Content-Type")MediaType contentType, @HeaderParam("User-Agent")MediaType userAgent){
         return "Content-Type: "+contentType+", user-agent: "+userAgent;
     }
+
+    @GET
+    @Path("cookies")
+    public String cookieParamTest(@CookieParam("sessionId") int sessionId){
+        return "Session id: "+sessionId;
+    }
+
+    @POST
+    @Path("form")
+    public String formParamTest(
+            @FormParam("name") String name,
+            @FormParam("id") String id){
+        return "name: "+name+", id: "+id;
+    }
+
 }
