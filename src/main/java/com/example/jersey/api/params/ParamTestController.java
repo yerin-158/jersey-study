@@ -1,4 +1,4 @@
-package com.example.jersey.api;
+package com.example.jersey.api.params;
 
 import com.example.jersey.domain.User;
 import org.springframework.stereotype.Component;
