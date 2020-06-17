@@ -1,5 +1,6 @@
 package com.example.jersey.api;
 
+import com.example.jersey.domain.User;
 import org.springframework.stereotype.Component;
 
 import javax.ws.rs.*;
@@ -59,4 +60,9 @@ public class ParamTestController {
         return "name: "+name+", id: "+id;
     }
 
+    @GET
+    @Path("bean/{id}")
+    public String beanParam(@BeanParam User user){
+        return user.toString();
+    }
 }
