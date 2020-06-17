@@ -1,4 +1,4 @@
-package com.example.jersey.api;
+package com.example.jersey.api.rootResourcePathParam;
 
 import org.springframework.stereotype.Component;
 

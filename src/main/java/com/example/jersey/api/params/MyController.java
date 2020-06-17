@@ -1,4 +1,4 @@
-package com.example.jersey.api;
+package com.example.jersey.api.params;
 
 import org.springframework.stereotype.Component;
 import org.springframework.web.bind.annotation.GetMapping;
