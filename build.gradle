@@ -19,6 +19,17 @@ dependencies {
 	testImplementation('org.springframework.boot:spring-boot-starter-test') {
 		exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
 	}
+	// https://mvnrepository.com/artifact/org.glassfish.grizzly/grizzly-http-server
+	// compile group: 'org.glassfish.grizzly', name: 'grizzly-http-server', version: '2.4.0'
+	// https://mvnrepository.com/artifact/org.glassfish.jersey.archetypes/jersey-quickstart-grizzly2
+	// `compile group: 'org.glassfish.jersey.archetypes', name: 'jersey-quickstart-grizzly2', version: '2.31'
+
+	// https://mvnrepository.com/artifact/org.projectlombok/lombok
+	implementation group: 'org.projectlombok', name: 'lombok', version: '1.18.12'
+
+	annotationProcessor('org.projectlombok:lombok')
+	testAnnotationProcessor('org.projectlombok:lombok')
+
 }
 
 test {
