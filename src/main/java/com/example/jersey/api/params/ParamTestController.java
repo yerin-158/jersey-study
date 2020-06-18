@@ -18,6 +18,7 @@ public class ParamTestController {
         return "pathParam -> "+name;
     }
 
+
     @GET
     @Path("query")
     public String queryParamTest(@QueryParam("name") String name){
@@ -48,7 +49,7 @@ public class ParamTestController {
 
     @GET
     @Path("cookies")
-    public String cookieParamTest(@CookieParam("sessionId") int sessionId){
+    public String cookieParamTest(@CookieParam ("sessionId") int sessionId){
         return "Session id: "+sessionId;
     }
 
@@ -60,9 +61,29 @@ public class ParamTestController {
         return "name: "+name+", id: "+id;
     }
 
+    @PUT
+    @Path("form")
+    public String putMethodTest(@FormParam("name") String name,
+                                @FormParam("id") String id){
+        String thisName = "before name";
+        String thisId = "before id";
+
+        thisName = name;
+        thisId = id;
+
+        return "name: "+thisName+", id: "+thisId;
+    }
+
+    @DELETE
+    public String deleteMethodTest(){
+        return "this is delete api!!!!";
+    }
+
+
     @GET
     @Path("bean/{id}")
     public String beanParam(@BeanParam User user){
         return user.toString();
     }
+
 }
