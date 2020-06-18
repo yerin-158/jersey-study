@@ -1,44 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e34999b-46d0-4194-a6e5-0f9d53164f68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.4.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.4.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.4.1/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.4.1/fileContent/fileContent.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.4.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.4.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.4.1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.4.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.4.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.4.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/jersey/JerseyApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/resources/main/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jersey.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/jersey/JerseyApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/jersey/api/MyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/jersey/JerseyApplicationTests.java" afterDir="false" />
+    <list default="true" id="5e34999b-46d0-4194-a6e5-0f9d53164f68" name="Default Changelist" comment="init">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/jersey/JerseyApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/jersey/JerseyApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jersey/api/params/ParamTestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/jersey/api/params/ParamTestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jersey/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/jersey/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/jersey/JerseyApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/jersey/JerseyApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +63,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -101,10 +86,125 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example.jersey.api" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.JerseyApplication">
+    <configuration name="JerseyApplicationTests.clientApi_Delete_Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.example.jersey.JerseyApplicationTests.clientApi_Delete_Test&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="JerseyApplicationTests.clientApi_Get_Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.example.jersey.JerseyApplicationTests.clientApi_Get_Test&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="JerseyApplicationTests.clientApi_Post_Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.example.jersey.JerseyApplicationTests.clientApi_Post_Test&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="JerseyApplicationTests.clientApi_Put_Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.example.jersey.JerseyApplicationTests.clientApi_Put_Test&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="JerseyApplicationTests.contextLoads" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.example.jersey.JerseyApplicationTests.contextLoads&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="JerseyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="jersey.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.jersey.JerseyApplication" />
@@ -112,6 +212,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.JerseyApplicationTests.clientApi_Delete_Test" />
+        <item itemvalue="Gradle.JerseyApplicationTests.clientApi_Put_Test" />
+        <item itemvalue="Gradle.JerseyApplicationTests.clientApi_Post_Test" />
+        <item itemvalue="Gradle.JerseyApplicationTests.clientApi_Get_Test" />
+        <item itemvalue="Gradle.JerseyApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -135,14 +244,155 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591591894221</updated>
-      <workItem from="1591591899176" duration="1262000" />
+      <workItem from="1591591899176" duration="3689000" />
+      <workItem from="1591596036758" duration="814000" />
+      <workItem from="1592360367172" duration="1299000" />
+      <workItem from="1592381602243" duration="43000" />
+      <workItem from="1592381674402" duration="12000" />
+      <workItem from="1592381690140" duration="161000" />
+      <workItem from="1592382153154" duration="14069000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1591593319751</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591593319751</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <created>1591594461810</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591594461810</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init">
+      <created>1591594486350</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591594486350</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Jersey 설정 파일 추가">
+      <created>1591594531561</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591594531561</updated>
+    </task>
+    <task id="LOCAL-00005" summary="기본 컨트롤러 추가">
+      <created>1591594544228</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591594544228</updated>
+    </task>
+    <task id="LOCAL-00006" summary="init">
+      <created>1591594703920</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1591594703920</updated>
+    </task>
+    <task id="LOCAL-00007" summary="기본 컨트롤러 추가">
+      <created>1591594729664</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1591594729664</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Jersey 설정 파일 추가">
+      <created>1591594746907</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1591594746907</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Path와 PathParam을 사용하는 코드를 작성한다.">
+      <created>1592383685213</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1592383685213</updated>
+    </task>
+    <task id="LOCAL-00010" summary="*Param 어노테이션 테스트 메소드 추가">
+      <created>1592390811824</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1592390811824</updated>
+    </task>
+    <task id="LOCAL-00011" summary="*Param 어노테이션을 이용하는 resource 추가">
+      <created>1592393103830</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1592393103830</updated>
+    </task>
+    <task id="LOCAL-00012" summary="BeanParam 이용하기">
+      <created>1592395390789</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1592395390789</updated>
+    </task>
+    <task id="LOCAL-00013" summary="api 내부 패키지 분리">
+      <created>1592397576273</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1592397576273</updated>
+    </task>
+    <task id="LOCAL-00014" summary="서브리소스 로케이터 사용해보기">
+      <created>1592397605158</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1592397605158</updated>
+    </task>
+    <task id="LOCAL-00015" summary="PUT, DELETE로 client 요청을 전송하기 위해서 PUT, DELETE api 추가">
+      <created>1592458589237</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1592458589237</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="기본 컨트롤러 추가" />
+    <MESSAGE value="Jersey 설정 파일 추가" />
+    <MESSAGE value="Path와 PathParam을 사용하는 코드를 작성한다." />
+    <MESSAGE value="*Param 어노테이션 테스트 메소드 추가" />
+    <MESSAGE value="*Param 어노테이션을 이용하는 resource 추가" />
+    <MESSAGE value="BeanParam 이용하기" />
+    <MESSAGE value="api 내부 패키지 분리" />
+    <MESSAGE value="서브리소스 로케이터 사용해보기" />
+    <MESSAGE value="PUT, DELETE로 client 요청을 전송하기 위해서 PUT, DELETE api 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="PUT, DELETE로 client 요청을 전송하기 위해서 PUT, DELETE api 추가" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="496" y="237" key="#Project_Structure" timestamp="1592381643322">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="496" y="237" key="#Project_Structure/0.23.1792.1097@0.23.1792.1097" timestamp="1592381643322" />
+    <state x="598" y="381" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591594397806">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="598" y="381" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1097@0.23.1792.1097" timestamp="1591594397806" />
+    <state x="709" y="282" key="#com.intellij.ide.util.MemberChooser" timestamp="1592457359509">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="709" y="282" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1097@0.23.1792.1097" timestamp="1592457359509" />
+    <state x="675" y="150" key="CommitChangelistDialog2" timestamp="1592460864417">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="675" y="150" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1592460864417" />
     <state x="761" y="472" key="Github.ShareDialog" timestamp="1591593153329">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
@@ -151,37 +401,89 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="658" y="285" key="Github.UntrackedFilesDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1591593159874" />
-    <state width="1750" height="441" key="GridCell.Tab.0.bottom" timestamp="1591593248391">
+    <state width="1750" height="273" key="GridCell.Tab.0.bottom" timestamp="1592460835767">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="441" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1591593248391" />
-    <state width="1750" height="441" key="GridCell.Tab.0.center" timestamp="1591593248390">
+    <state width="1750" height="273" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1592460835767" />
+    <state width="1750" height="273" key="GridCell.Tab.0.center" timestamp="1592460835766">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="441" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1591593248390" />
-    <state width="1750" height="441" key="GridCell.Tab.0.left" timestamp="1591593248389">
+    <state width="1750" height="273" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1592460835766" />
+    <state width="1750" height="273" key="GridCell.Tab.0.left" timestamp="1592460835766">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="441" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1591593248389" />
-    <state width="1750" height="441" key="GridCell.Tab.0.right" timestamp="1591593248390">
+    <state width="1750" height="273" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1592460835766" />
+    <state width="1750" height="273" key="GridCell.Tab.0.right" timestamp="1592460835767">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="441" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1591593248390" />
-    <state width="1750" height="441" key="GridCell.Tab.1.bottom" timestamp="1591593248391">
+    <state width="1750" height="273" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1592460835767" />
+    <state width="1750" height="273" key="GridCell.Tab.1.bottom" timestamp="1592460835768">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="441" key="GridCell.Tab.1.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1591593248391" />
-    <state width="1750" height="441" key="GridCell.Tab.1.center" timestamp="1591593248391">
+    <state width="1750" height="273" key="GridCell.Tab.1.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1592460835768" />
+    <state width="1750" height="273" key="GridCell.Tab.1.center" timestamp="1592460835768">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="441" key="GridCell.Tab.1.center/0.23.1792.1097@0.23.1792.1097" timestamp="1591593248391" />
-    <state width="1750" height="441" key="GridCell.Tab.1.left" timestamp="1591593248391">
+    <state width="1750" height="273" key="GridCell.Tab.1.center/0.23.1792.1097@0.23.1792.1097" timestamp="1592460835768" />
+    <state width="1750" height="273" key="GridCell.Tab.1.left" timestamp="1592460835767">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="441" key="GridCell.Tab.1.left/0.23.1792.1097@0.23.1792.1097" timestamp="1591593248391" />
-    <state width="1750" height="441" key="GridCell.Tab.1.right" timestamp="1591593248391">
+    <state width="1750" height="273" key="GridCell.Tab.1.left/0.23.1792.1097@0.23.1792.1097" timestamp="1592460835767" />
+    <state width="1750" height="273" key="GridCell.Tab.1.right" timestamp="1592460835768">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="441" key="GridCell.Tab.1.right/0.23.1792.1097@0.23.1792.1097" timestamp="1591593248391" />
+    <state width="1750" height="273" key="GridCell.Tab.1.right/0.23.1792.1097@0.23.1792.1097" timestamp="1592460835768" />
+    <state width="1750" height="343" key="GridCell.Tab.2.bottom" timestamp="1592454016515">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="343" key="GridCell.Tab.2.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1592454016515" />
+    <state width="1750" height="343" key="GridCell.Tab.2.center" timestamp="1592454016515">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="343" key="GridCell.Tab.2.center/0.23.1792.1097@0.23.1792.1097" timestamp="1592454016515" />
+    <state width="1750" height="343" key="GridCell.Tab.2.left" timestamp="1592454016515">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="343" key="GridCell.Tab.2.left/0.23.1792.1097@0.23.1792.1097" timestamp="1592454016515" />
+    <state width="1750" height="343" key="GridCell.Tab.2.right" timestamp="1592454016515">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="343" key="GridCell.Tab.2.right/0.23.1792.1097@0.23.1792.1097" timestamp="1592454016515" />
+    <state x="397" y="210" key="SettingsEditor" timestamp="1592460792572">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="397" y="210" key="SettingsEditor/0.23.1792.1097@0.23.1792.1097" timestamp="1592460792572" />
+    <state x="496" y="311" key="Vcs.Push.Dialog.v2" timestamp="1592399240225">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="496" y="311" key="Vcs.Push.Dialog.v2/0.23.1792.1097@0.23.1792.1097" timestamp="1592399240225" />
+    <state x="556" y="404" key="com.intellij.ide.util.TipDialog" timestamp="1592382208674">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="556" y="404" key="com.intellij.ide.util.TipDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1592382208674" />
+    <state x="667" y="321" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1591594324765">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="667" y="321" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1591594324765" />
+    <state x="561" y="268" width="670" height="676" key="search.everywhere.popup" timestamp="1592457476310">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="561" y="268" width="670" height="676" key="search.everywhere.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1592457476310" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/jersey/JerseyApplicationTests.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/jersey/JerseyApplicationTests.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
