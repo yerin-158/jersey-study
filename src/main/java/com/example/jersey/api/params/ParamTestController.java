@@ -100,4 +100,10 @@ public class ParamTestController {
         return user.toString();
     }
 
+    @GET
+    @Path("multiPath/{name}/{age}")
+    public String multiParam(@PathParam("name")String name, @PathParam("age")int age) {
+        return "name : "+name+", age : "+age;
+    }
+
 }
